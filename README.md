@@ -12,3 +12,5 @@ Use color picker extensions link [colorpick-eyedropper](https://chrome.google.co
 The font used: Cabin
 
 If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
+
+## completed
